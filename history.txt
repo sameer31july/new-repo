@@ -1,0 +1,41 @@
+print("i am alive")
+print("i am alive")1
+1+3
+1+3*8
+type(1+3*2)
+type(1+3*2.0)
+1
+True
+False
+type(True)
+True == False
+False == False
+"hi"
+type('hi')
+type("a" + "b")
+"aa" + "b"
+"abc"[0]
+"abc"[1]
+input("wht is your name")
+input("what is your name ?")
+'hi'
+"hi"
+"cornor"
+type(1+ 1)
+(1,3)
+type((1,3))
+(11,2,3)[0]
+(11,2,3)[1]
+[0,1,2]
+type([1,2])
+typr(1)
+type(1)
+input("what is your name ?")
+input("what is your?")
+%hist
+%hist
+%hist?
+%hist ?
+%history?
+%history?
+%history -f history.txt
